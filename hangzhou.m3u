@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 
 #EXTINF:-1 tvg-name="杭州1(综合)" group-title="杭州频道",杭州1(综合)
-https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1721714101-0-0-f58196540055bd4262b7557e4203c319
+https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1721796561-0-0-b5d3926e3c61ae0a1ebc9ca6bd55f1e7
 #EXTINF:-1 tvg-name="杭州2(明珠)" group-title="杭州频道",杭州2(明珠)
-https://live.hoolo.tv/hztv2/sd/live.m3u8?auth_key=1721714117-0-0-63db320b227a89c8661d4113abf586e0
+https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1721796584-0-0-67f277b827e9f14d9453224037e017bc
 #EXTINF:-1 tvg-name="杭州3(生活)" group-title="杭州频道",杭州3(生活)
-https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1721714142-0-0-9facae6fdd1fa629d047b29ca3f441ae
+https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1721796595-0-0-3d06d81c51eca64475d61ba4c064c4c8
 #EXTINF:-1 tvg-name="杭州4(影视)" group-title="杭州频道",杭州4(影视)
-https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1721714183-0-0-c94110f284b91b34582ae7c34fc1e640
+https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1721796450-0-0-76901bd329e797ec7606da1dc508ebed
 #EXTINF:-1 tvg-name="杭州5(少体)" group-title="杭州频道",杭州5(少体)
-https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1721714219-0-0-e93784f3bc42b0cc849f304cac2252fe
+https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1721796624-0-0-c2319a50e7b1a1aa540260197d46a142
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1综合
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUU6FFmRK8Hl0ytyd5e5kWGEwoDIwMxbrlyyVy9x6 ZDKnldIYKOjBOUjRyoym5n7Kg0yIYstFTUfqtC14fzxhy5Y
